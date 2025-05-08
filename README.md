@@ -1,10 +1,10 @@
-# 🔍 CLI-based File Explorer with Process Management  
+#  CLI-based File Explorer with Process Management  
 
 A powerful **command-line interface (CLI) application** for navigating, managing files and directories, and monitoring system processes seamlessly. This project is designed to enhance user productivity by combining **file management** with **process control** directly from the terminal.
 
 ---
 
-## 🚀 **Features**
+##  **Features**
 - **File Management:**  
   - List, create, rename, open, and delete files and directories.  
   - Navigate through directories with simple commands.  
